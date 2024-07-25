@@ -8,9 +8,9 @@ setup(
     # The version of the package
     version="0.1.0",
     # The author's name
-    author="Your Name",
+    author="winston mhango",
     # The author's email address
-    author_email="your.email@example.com",
+    author_email="winstonmhango23@gmail.com",
     # A short description of the package
     description="A comprehensive banking system package with accounts, loans, rewards, and utilities.",
     # A long description of the package, read from the README.md file
